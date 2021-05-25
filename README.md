@@ -9,7 +9,7 @@ Authentication Server Phase 2: Token (Bearer) Authentication
 
 - [Repo Link](https://github.com/engnour94/bearer-auth)
 - [GitHub Actions](https://github.com/engnour94/bearer-auth/actions)
-- [Deployed Site]()
+- [Deployed Site](https://bearer-auth-by-nour.herokuapp.com/)
 
 
 ## Setup
@@ -62,4 +62,4 @@ get `/secret` ----> bearer
 
 ### UML Diagram
 
-![UML Lab7](/class7.jpg)
+![UML Lab7](7.jpg)
