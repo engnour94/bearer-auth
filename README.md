@@ -31,13 +31,13 @@ Authentication Server Phase 2: Token (Bearer) Authentication
 
 ### Endpoints: 
 
-post `/signin`
+post `/signin` ---> 'Basic Auth'
 
-post `/signup`
+post `/signup` ---> 'No Auth '
 
-get `/users`
+get `/users` ----> bearer
 
-get `/secret`
+get `/secret` ----> bearer
 
 
  ### Returns Object
